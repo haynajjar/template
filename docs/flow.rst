@@ -1,3 +1,4 @@
+.. include:: ../FLOW.rst
 ------
 Flow
 ------
